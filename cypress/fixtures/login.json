@@ -1,0 +1,12 @@
+{
+  "valid_email": "59a57103-f84d-46d1-ac0a-9cf300d8f4f1@mailslurp.net",
+  "valid_password": "Password25*",
+  "invalid_email": "chizzy@yopmail.com",
+  "invalid_password": "chizzy",
+  "emailField": "[type='email']",
+  "passwordField": "[type='password']",
+  "login_button": ".inline-flex",
+  "alert": "#content > div > div > div.mt-7 > form > div > div:nth-child(5) > div > div > div.go3958317564",
+  "dashboardHeader": "div > div > div.block.justify-between.page-header.md\\:flex > div > h3",
+  "passwordFieldError": ".content > div > div > div.mt-7 > form > div > div:nth-child(5) > div > div > div.go3958317564"
+}

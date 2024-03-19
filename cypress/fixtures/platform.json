@@ -1,0 +1,20 @@
+{
+  "signupButton": ".text-sm > .text-primary",
+  "mediaOutlet": ".react-select__input-container",
+  "selectMediaOutlet": "#react-select-2-option-2",
+  "call_sign": "div:nth-child(2) > div > input",
+  "callSign": "David",
+  "emailField": "div:nth-child(3) > .relative > .py-2",
+  "email": "katrine@yopmail.com",
+  "password": "#password",
+  "passWord": "Password25*",
+  "confirmField": "#confirm_password",
+  "confirmPassword": "Password25*",
+  "continue_button": ".inline-flex",
+  "verificationCode": ".relative > .py-2",
+  "verifyButton": ".bg-primary",
+  "alert": ".go3958317564",
+  "dashboardHeader": "div > div > div.block.justify-between.page-header.md\\:flex > div > h3",
+  "welcomeText": ".px-8 > .text-black",
+  "privacyPolicy": "#accept-terms"
+}
